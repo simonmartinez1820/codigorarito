@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=buscadorplacas
+comment1.params=n
+comment1.target=void\ leerplacas(java.lang.String)
+numComments=2
